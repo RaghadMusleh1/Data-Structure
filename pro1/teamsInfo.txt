@@ -1,0 +1,5 @@
+Name		Code	Wins	Draws	Loses	Goals Differences	
+
+Croatia	CRO	4	2	0	3
+Moroco	MAR	2	1	0	3
+Belgium	BEL	1	1	1	-1
