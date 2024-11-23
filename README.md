@@ -30,7 +30,7 @@ This repository contains two projects:
 
 - **BST Implementation**: Reads medicine data from a file and stores it in a Binary Search Tree. Supports insert, update, and delete operations for medicine records.
 - **Hash Table Implementation**: Converts the BST data into a Hash Table and allows various operations, including insert, search, and delete.
-- **Linked List Implementation**: A linked list is used to represent the indications (descriptions or uses) of each medicine.
+- **Linked List Implementation**: A linked list is used to represent the indications of each medicine.
 - 
 ### Files:
 - `Meds.txt`: Contains initial medicine data.
